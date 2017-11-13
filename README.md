@@ -1,2 +1,2 @@
 # RemoteCommand
-Can command to remote machine
+Send command to remote machine
